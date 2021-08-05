@@ -5,7 +5,7 @@ imports:
   version: 349dd0209470eabd9514242c688c403c0926d266
 - name: github.com/PuerkitoBio/goquery
   version: 3cb3b8656883c2cc3deb9c643d93ea6e5157e425
-- name: github.com/Sirupsen/logrus
+- name: github.com/sirupsen/logrus
   version: 61e43dc76f7ee59a82bdf3d71033dc12bea4c77d
 - name: github.com/spf13/pflag
   version: a232f6d9f87afaaa08bafaff5da685f974b83313
